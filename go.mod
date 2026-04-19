@@ -4,6 +4,7 @@ go 1.24.1
 
 require (
 	github.com/ollama/ollama v0.21.0
+	github.com/sashabaranov/go-openai v1.41.2
 	google.golang.org/grpc v1.80.0
 )
 
