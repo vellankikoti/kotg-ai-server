@@ -1,0 +1,11 @@
+# Built binary
+/kotg-ai-server
+/cmd/kotg-ai-server/kotg-ai-server
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
